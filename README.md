@@ -3,4 +3,4 @@
 
 **Figma Design -**
 
-![alt text][iphone8-1.png]
+![alt text](figma.png)
