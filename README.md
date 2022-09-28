@@ -16,7 +16,3 @@
 
 ![alt text](figma.png)
 
-
-| Parameter     | Django        | Flask |
-| ------------- | ------------- | ------------- |
-| Type of Framework | Django is a full-stack web framework that enables ready to use solutions with its batteries-included approach.  | Flask is a lightweight framework that gives abundant features without external libraries and minimalist features.  |
